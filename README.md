@@ -1,7 +1,7 @@
 <h1 align="center">Vitor Doring </h1>
 
 <p align="center">
-  <strong>Software Development Student</strong>
+  <strong>Backend Development Student</strong>
 </p>
 
 <p align="center">
