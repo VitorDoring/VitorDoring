@@ -1,7 +1,7 @@
 <h1 align="center">Vitor Doring </h1>
 
 <p align="center">
-  <strong>Software Development Student | Backend Development | REST APIs</strong>
+  <strong>Software Development Student</strong>
 </p>
 
 <p align="center">
@@ -13,17 +13,23 @@
   <a href="https://www.linkedin.com/in/vitordl/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://www.instagram.com/vitordoring/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:vitordoringleitao@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
 ## About me
 
-I am a Software Development student focused on backend engineering, API architecture, and scalable application design. Currently pursuing a Technical Degree in Informatics at **UNIVAP**, while also working as a Software Development Intern, gaining practical experience in real-world systems and development workflows.
+Passionate about software development, I am currently focused on backend technologies, REST API development, and structured application architecture. As a Technical Informatics student at UNIVAP and a Software Development Intern, I have been building both academic and hands-on experience through real-world projects and professional environments.
 
-I enjoy building clean and functional solutions using structured architectures such as MVC, with a strong focus on REST APIs and backend logic. I am constantly seeking to improve my problem-solving skills, logical reasoning, and software engineering knowledge.
+I enjoy designing organized and efficient systems, especially using concepts such as MVC architecture and scalable backend solutions. Problem-solving, logical thinking, and continuous learning are some of the principles that drive my growth as a developer.
 
-Currently, I am also developing a growing interest in cybersecurity and secure systems architecture.
+Alongside backend development, I have a growing interest in cybersecurity and secure software practices, constantly looking to expand my knowledge in the area.
 
 ---
 
