@@ -123,28 +123,21 @@ A web-based platform developed as my Technical Course Final Project (TCC), desig
 
 ## GitHub Statistics
 
-
 <div align="center">
 
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=VitorDoring&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-  />
+<img height="170em"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorDoring&show_icons=true&theme=react" />
 
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDoring&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-  />
+<img height="170em"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorDoring&layout=compact&theme=react" />
 
 </div>
-
 
 <br>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VitorDoring&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
-  />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=VitorDoring&theme=react&hide_border=true" />
 </p>
 
 ---
