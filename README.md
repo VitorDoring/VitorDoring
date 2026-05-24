@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/vitordl/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/vitordoring/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
   <a href="mailto:vitordoringleitao@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
