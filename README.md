@@ -1,4 +1,4 @@
-<h1 align="center">Vitor Doring </h1>
+<h1 align="center">Vitor Doring Leitão</h1>
 
 <p align="center">
   <strong>Backend Development Student</strong>
