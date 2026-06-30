@@ -51,7 +51,7 @@ Alongside backend development, I have a growing interest in cybersecurity and se
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,php" />
+  <img src="https://skillicons.dev/icons?i=python,cs,php,js" />
 </p>
 
 ### Frameworks & Libraries
