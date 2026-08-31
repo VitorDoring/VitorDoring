@@ -118,27 +118,6 @@ A web-based platform developed as my Technical Course Final Project (TCC), desig
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorDoring&show_icons=true&theme=react" />
-
-<img height="170em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorDoring&layout=compact&theme=react" />
-
-</div>
-
-<br>
-
-<p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=VitorDoring&theme=react&hide_border=true" />
-</p>
-
----
-
 <div align="center">
   
   <i>Driven by logic, discipline, and continuous improvement.</i>
